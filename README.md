@@ -14,12 +14,18 @@ Class Slot: B14 + D21
 Course Context: Object-Oriented Programming / Java Programming
 
 PROJECT FILE DEVELOPMENT STEP BY STEP:
-Basic Structure.java
-ViewAttendance.java
-MarkAttendance.java
-NoDuplicateEntry.java
-Main.java (The whole developed code)
-Readme
+
+1.Basic Structure.java
+
+2.ViewAttendance.java
+
+3.MarkAttendance.java
+
+4.NoDuplicateEntry.java
+
+5.Main.java (The whole developed code)
+
+6.Readme
 
 
 

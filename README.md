@@ -13,6 +13,15 @@ Faculty Name: Dr. Kamlesh Chandravanshi
 Class Slot: B14 + D21
 Course Context: Object-Oriented Programming / Java Programming
 
+PROJECT FILE DEVELOPMENT STEP BY STEP:
+Basic Structure.java
+ViewAttendance.java
+MarkAttendance.java
+NoDuplicateEntry.java
+Main.java (The whole developed code)
+Readme
+
+
 
 ABSTRACT :
 
